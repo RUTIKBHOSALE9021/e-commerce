@@ -1,7 +1,11 @@
-import React from "react";
+import React from 'react'
 
 const App = () => {
-  return <div>Welcome to Thapa React E-Commerce Website</div>;
-};
+  return (
+    <div>
+      <h1>This is e-commerce website</h1>
+    </div>
+  )
+}
 
-export default App;
+export default App
